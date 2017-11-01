@@ -1,4 +1,4 @@
-<% project_name = 'my-travel-app-rails' %>
+<% project_name = 'my-travel-app-backend' %>
 
 default: &default
   adapter: postgresql
