@@ -16,8 +16,8 @@ class CountriesController < ProtectedController
   # POST /countries
   def create
 
-    @country = Country.new(country_params)
-    # @country = current_user.countries.build(country_params)
+    #@country = Country.new(country_params)
+     @country = current_user.countries.build(country_params)
     @country.user = current_user
 
     if @country.save
