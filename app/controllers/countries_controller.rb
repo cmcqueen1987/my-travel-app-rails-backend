@@ -7,15 +7,16 @@ class CountriesController < ProtectedController
   end
   # GET /countries/1
   def show
-    @countries = Country.find(params[:id])
+    #@countries = Country.find(params[:id])
         render json: @country
   end
   # POST /countries
   def create
-
-    @country = current_user.countries.build(country_params)
+@country = Country.new(country_params)
+    # @country = current_user.countries.build(country_params)
+    @country.user = current_user
     if @country.save
-      render json: @country, status: :created, location: @country
+      render json: @country, status: :created
     else
       render json: @country.errors, status: :unprocessable_entity
     end
