@@ -7,7 +7,8 @@
 https://cmcqueen1987.github.io/my-travel-app-ember-frontend/#/
 ## Link to Backend-Api Deployed Site:
 https://my-travel-app-capstone.herokuapp.com/
-## Link to Frontend Repository: https://github.com/cmcqueen1987/my-travel-app-ember-frontend
+## Link to Frontend Repository:
+https://github.com/cmcqueen1987/my-travel-app-ember-frontend
 
 ## Project Wireframe and ERD:
 
