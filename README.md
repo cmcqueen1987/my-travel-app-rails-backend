@@ -2,25 +2,17 @@
 
 <h3>By Charles McQueen (WDI 20)</h3>
 
-- Link To Deployed Site: https://cmcqueen1987.github.io/my-travel-app-ember-frontend/#/
+![Alt text](https://i.imgur.com/y7TGe8O.png)
+## Link To Deployed Site:
+https://cmcqueen1987.github.io/my-travel-app-ember-frontend/#/
+## Link to Backend-Api Deployed Site:
+https://my-travel-app-capstone.herokuapp.com/
+## Link to Frontend Repository: https://github.com/cmcqueen1987/my-travel-app-ember-frontend
 
-- Link to Backend-Api Deployed Site: https://my-travel-app-capstone.herokuapp.com/
-- Link to Frontend Repository: https://github.com/cmcqueen1987/my-travel-app-ember-frontend
-
-## Project Wireframe, ERD and User Stories:
+## Project Wireframe and ERD:
 
 - Link to Wireframe - https://i.imgur.com/2lk1g7n.jpg
 - Link to ERD - https://i.imgur.com/6exP0Cl.jpg
-
-## User Stories
-
-- A user can sign-up and sign-in with a username/email and a password
-- A user can change their password and signout of their profile
-- A user can create a list of countries they have visited and have their list save everytime they log-in and log-out
-- A user can add countries to their list anytime
-- A user can edit the countries on their list anytime
-- A user can delete counties from their list anytime
-
 
 ## About My App!
 
@@ -40,6 +32,14 @@ This application is mirrored from my first travel application project except thi
 
 ** The steps taken above were not in order all of the time as I did jump around a bit from my front and back end. This was a difficult project from start to finish, but was a great experience and will continue to use ember.
 
+## User Stories
+
+- A user can sign-up and sign-in with a username/email and a password
+- A user can change their password and signout of their profile
+- A user can create a list of countries they have visited and have their list save everytime they log-in and log-out
+- A user can add countries to their list anytime
+- A user can edit the countries on their list anytime
+- A user can delete counties from their list anytime
 
 ## API end-points
 
